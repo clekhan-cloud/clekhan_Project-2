@@ -25,7 +25,7 @@ Instance Tracking: A real-time log displaying unique IDs and confidence scores f
 
 Visualization: Mask overlays and bounding boxes rendered directly in the browser.
 
-Access the demo here: Gradio Live Link (https://aad8dd5c32e2368955.gradio.live/
+Access the demo here: Gradio Live Link (https://c55a3e9b70a6539dc7.gradio.live)
 
 )
 
